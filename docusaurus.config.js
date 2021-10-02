@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/clannysystems.png',
   organizationName: 'piano1029', // Usually your GitHub org/user name.
-  projectName: 'clannyv3', // Usually your repo name.
+  projectName: 'ClannyWikiV2', // Usually your repo name.
 
   presets: [
     [
