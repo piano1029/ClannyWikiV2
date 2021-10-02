@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Clanny Systems',
   tagline: 'Automated Roblox Management',
   url: 'https://clanny-gateway.glitch.me',
-  baseUrl: '/',
+  baseUrl: '/ClannyWikiV2/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/clannysystems.png',
