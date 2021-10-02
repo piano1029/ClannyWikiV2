@@ -28,7 +28,7 @@ const FeatureList = [
     description: (
       <>
         Clanny will always be free, no matter how big or small your group is.
-        But support on <a href='https://www.patreon.com/clannysystems'>Patreon</a> is always appreaciated
+        But support on <a href='https://www.patreon.com/clannysystems'>Patreon</a> is always appreciated
       </>
     ),
   },
