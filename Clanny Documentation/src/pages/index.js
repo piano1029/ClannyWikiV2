@@ -20,6 +20,16 @@ function HomepageHeader() {
             Setup Clanny - 5min ⏱️
           </Link>
         </div>
+        <> 
+        <br></br>
+        </>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://clanny-gateway.glitch.me">
+            Clanny Dashboard
+          </Link>
+        </div>
       </div>
     </header>
   );
