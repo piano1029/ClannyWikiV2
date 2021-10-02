@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Discord Documentation": {
+    "message": "Discord Documentation",
+    "description": "The label for category Discord Documentation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Commands": {
+    "message": "Commands",
+    "description": "The label for category Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrative Commands": {
+    "message": "Administrative Commands",
+    "description": "The label for category Administrative Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Group Commands": {
+    "message": "Group Commands",
+    "description": "The label for category Group Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Miscellaneous Commands": {
+    "message": "Miscellaneous Commands",
+    "description": "The label for category Miscellaneous Commands in sidebar tutorialSidebar"
+  }
+}
