@@ -6,30 +6,17 @@ sidebar_position: 1
 
 Just starting out with Clanny? Go [here](discord/setup)!
 
-## Getting Started
+## Some information on the documentation
 
-Get started by **creating a new site**.
+Some information for all the parts of the documentation
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Discord documentation
 
-## Generate a new site
+This is for the Discord documentation
 
-Generate a new Docusaurus site using the **classic template**:
+#### `[User]` Arguments
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+A user argument accepts the following
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+- A Roblox user name
+- A Discord mention
