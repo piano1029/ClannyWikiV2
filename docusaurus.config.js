@@ -99,7 +99,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
       googleAnalytics: {
-        trackingID: 'G-041XZEGMN9'
+        trackingID: 'ca-pub-2911392441238764'
       },  
     }),
 });
