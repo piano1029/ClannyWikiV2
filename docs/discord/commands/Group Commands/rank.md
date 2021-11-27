@@ -26,7 +26,7 @@ To use the dashboard you need a Clanny managed account in your group
 - `c!rank lock [Rank]` Disables automated promotions and demotions from and to that rank
 - `c!rank perm [Rank] [normal/officer/hicom/owner]` Changes a rank's permission level
 - `c!rank role [Rank ID] [Discord Role ID/Mention/Ping]` Sets a rank's Discord role, this will be given automatically or removed automatically
-- `c!rank prefix [Rank ID] [Prefix]` Sets a rank's nickname prefix, this will be set automatically. This can not contain spaces
+- `c!rank prefix [Rank ID] [Prefix]` Sets a rank's nickname prefix, this will be set automatically. This can not contain spaces.  Set the prefix to "none" if you want to remove it
 
 :::tip
 Clanny supports some _special_ Discord roles, their uses are self explenatory
