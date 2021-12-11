@@ -37,6 +37,8 @@ Go to https://roblox.com, you will go to the account creation panel. If you do n
 When creating the account make sure of the following things:
 - Its birthday is over 13 years
 - It has a strong password (https://passwordsgenerator.net/)
+
+
 ![Good Configuration](https://github.com/piano1029/ClannyWikiV2/blob/piano1029-roblox-related-docs/static/img/ClannyTokenGuide1.png?raw=true)
 
 ## Secure your account
@@ -65,7 +67,9 @@ Open the devtools:
 
 Now open the application tab in the devtools window, in some cases it might be hidden, most browsers will show ">>" in that case, press that then press Application.
 Once you did that you need to open the Roblox cookies
+
 ![Open Roblox Cookies](https://github.com/piano1029/ClannyWikiV2/blob/piano1029-roblox-related-docs/static/img/ClannyTokenGuide3.png?raw=true)
+
 Now scroll until you find `.ROBLOSECURITY`, double click the value (starting with `_|WARNING:-DO-NOT-SHARE-THIS`). Now press Control + C or Command + C depending on your system and you have the cookie!
 :::warning
 As mentioned above, never share this cookie. (To see why its secure to share with us, read the red block above)
