@@ -37,6 +37,7 @@ Go to https://roblox.com, you will go to the account creation panel. If you do n
 When creating the account make sure of the following things:
 - Its birthday is over 13 years
 - It has a strong password (https://passwordsgenerator.net/)
+- **DO NOT PUT CLANNY IN THE NAME**
 
 
 ![Good Configuration](https://github.com/piano1029/ClannyWikiV2/blob/piano1029-roblox-related-docs/static/img/ClannyTokenGuide1.png?raw=true)
