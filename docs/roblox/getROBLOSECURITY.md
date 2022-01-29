@@ -77,3 +77,7 @@ As mentioned above, never share this cookie. (To see why its secure to share wit
 **Also**
 Make sure you have the cookie selected when doing Ctrl+C/Cmd+C !
 :::
+
+## Updating the token
+
+In order to update your token run `c!token` and DM the bot with your new token.
